@@ -1,0 +1,10 @@
+D:\yaman\YandexDisk\UygS\VisualStudioProjects\MazeR\MazeR\bin\Debug\MazeR.exe.config
+D:\yaman\YandexDisk\UygS\VisualStudioProjects\MazeR\MazeR\bin\Debug\MazeR.exe
+D:\yaman\YandexDisk\UygS\VisualStudioProjects\MazeR\MazeR\bin\Debug\MazeR.pdb
+D:\yaman\YandexDisk\UygS\VisualStudioProjects\MazeR\MazeR\obj\Debug\MazeR.Form1.resources
+D:\yaman\YandexDisk\UygS\VisualStudioProjects\MazeR\MazeR\obj\Debug\MazeR.Properties.Resources.resources
+D:\yaman\YandexDisk\UygS\VisualStudioProjects\MazeR\MazeR\obj\Debug\MazeR.csproj.GenerateResource.Cache
+D:\yaman\YandexDisk\UygS\VisualStudioProjects\MazeR\MazeR\obj\Debug\MazeR.csproj.CoreCompileInputs.cache
+D:\yaman\YandexDisk\UygS\VisualStudioProjects\MazeR\MazeR\obj\Debug\MazeR.exe
+D:\yaman\YandexDisk\UygS\VisualStudioProjects\MazeR\MazeR\obj\Debug\MazeR.pdb
+D:\yaman\YandexDisk\UygS\VisualStudioProjects\MazeR\MazeR\obj\Debug\MazeR.csprojResolveAssemblyReference.cache
